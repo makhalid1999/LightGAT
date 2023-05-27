@@ -1,1 +1,3 @@
 # LightGAT
+
+Graphical models have been used extensively for recommendation systems. With deep learning revolutionising the world from data science to healthcare, it was natural that graphical models would adapt to this field by introducing new paradigms like Graph Neural Networks (GNNs). Graph Convolutional Networks, a class of GNNs have been used to mimic the use of Convolutional Neural Networks (CNN) on images for applications in graph classification and node labelling. He et al. have used such an approach to link items to users. They have simplified the GCN for optimization, including only the aggregation part. 
